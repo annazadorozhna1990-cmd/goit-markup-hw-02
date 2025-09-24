@@ -87,20 +87,24 @@ a {
   color: #434455;
 }
 .team-section {
+  background-color: #ffffff;
+}
+.team-section {
   background-color: #f4f4fd;
 }
+.team-card {
+  background-color: #ffffff;
+}
 .team-titel {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
-.team-foto {
-  width: 264px;
-  height: 260px;
-}
+
 .team-list-name {
   font-weight: 500;
   font-size: 20px;
