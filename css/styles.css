@@ -63,6 +63,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  cursor: pointer;
 }
 .hero-button {
   background-color: #4d5ae5;
@@ -71,10 +72,10 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 .hero-button:hover .hero-button:focus {
   background-color: #404bbf;
-  cursor: pointe;
 }
 
 /* ADVANTAGES */
