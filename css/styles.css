@@ -72,8 +72,9 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
 }
-.hero-button:hover {
+.hero-button:hover .hero-button:focus {
   background-color: #404bbf;
+  cursor: pointe;
 }
 
 /* ADVANTAGES */
